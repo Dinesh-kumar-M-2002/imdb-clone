@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function page() {
   return (
     <div className='max-w-6xl mx-auto p-3 space-y-4 text-justify'>
@@ -33,7 +31,7 @@ export default function page() {
         looking for ways to improve and enhance the user experience on our
         website. Happy browsing!
       </p>
-      <p>-Developed By <span className='text-red-500 font-mono text-bold text-2xl'>Dinesh M</span></p>
+      <p>- Developed By <span className='text-red-500 font-mono text-bold text-2xl'>Dinesh M</span></p>
     </div>
   )
 }
