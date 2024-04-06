@@ -33,6 +33,7 @@ export default function page() {
         looking for ways to improve and enhance the user experience on our
         website. Happy browsing!
       </p>
+      <p>-Developed By <span className='text-red-500 font-mono text-bold text-2xl'>Dinesh M</span></p>
     </div>
   )
 }
